@@ -4,8 +4,8 @@
 
 ## Purpose
 
-This Analysis is about creating a vacation map to help customers Plan for their Trip and get the information and data as fast as We also provide users 
- the weather description for over 500 cities across the world, create travel destinations and itinerary map
+This Analysis is about creating a vacation map to help customers Plan for their Trip and get the information and data as fast as We can ,
+also provide users the weather description for over 500 cities across the world, create travel destinations and itinerary map
  
  
  ## Overview
