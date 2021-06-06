@@ -23,4 +23,4 @@ This Analysis is about creating a vacation map to help customers Plan for their 
 
 ## Results
 
-This App Makes Traveling Easier and more accurate based on the information given about the weather, city and destination and also provides users with different options on the other hand the name of the hotel and the location 
+This App Makes Traveling Easier and more accurate based on the information given about the weather, city and destination and also provides users with different options on the such as  Forecast information ,Hotels and the location 
