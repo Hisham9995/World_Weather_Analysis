@@ -16,6 +16,7 @@ This Analysis is about creating a vacation map to help customers Plan for their 
 2. We have used  citipy module  to identify the nearest city for each coordinate combination. 
 3. We did  request the current weather data from each unique city on the list  through  the OpenWeatherMap API.
 4. The map provides users with information about  about hotel name, city, country, and current weather and the destinations .
+5. We did use  Google Maps Directions API to generates a travel route between 4 cities selected by the user
 
  ![](Vacation_Search/WeatherPy_vacation_map.png.png)
 
